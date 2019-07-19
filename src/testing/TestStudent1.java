@@ -1,6 +1,8 @@
 package testing;
 
 class TestStudent1{  
+	public void set(){
+	}
 int id;  
 String name;  
 //method to display the value of id and name  
@@ -13,5 +15,6 @@ public static void main(String args[]){
 //displaying values of the object  
 s1.display();  
 s2.display();  
+
 }  
 }   
